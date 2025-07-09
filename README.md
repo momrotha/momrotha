@@ -34,7 +34,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [PhteahFinder 🏠](https://seangeim7799.wixsite.com/phteahfinder) | A platform that connects renters and landlords in Cambodia | React, TailwindCSS, Firebase |
-| [istad_fullstack_portfolio 📚](https://github.com/momrotha/istad_fullstack_portfolio.git) | based  profile portfolio | HTML, CSS |
+| [istad_fullstack_portfolio 📚](https://istad-fullstack-portfolio.vercel.app/) | based  profile portfolio | HTML, CSS |
 | [react_website ](https://github.com/MomRotha](https://react-websiteecommerce.vercel.app/)) | A platform that connects with fake APIs | React |
 | [Happy_birthday 🎉](https://github.com/momrotha/Happy_birthday.git)) | Fun HTML/CSS animation with birthday music | HTML, CSS, JavaScript |
 
