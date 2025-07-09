@@ -35,8 +35,8 @@
 |--------|-------------|------|
 | [PhteahFinder 🏠](https://seangeim7799.wixsite.com/phteahfinder) | A platform that connects renters and landlords in Cambodia | React, TailwindCSS, Firebase |
 | [istad_fullstack_portfolio 📚](https://istad-fullstack-portfolio.vercel.app/) | based  profile portfolio | HTML, CSS |
-| [react_website ](https://react-websiteecommerce.vercel.app/)) | A platform that connects with fake APIs | React |
-| [Happy_birthday 🎉](happy-birthday-psi-azure.vercel.app)) | Fun HTML/CSS animation with birthday music | HTML, CSS, JavaScript |
+| [react_website ](https://react-websiteecommerce.vercel.app/) | A platform that connects with fake APIs | React |
+| [Happy_birthday 🎉](happy-birthday-psi-azure.vercel.app) | Fun HTML/CSS animation with birthday music | HTML, CSS, JavaScript |
 
 ---
 
@@ -45,9 +45,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MomRotha&theme=tokyonight&hide_border=false&count_private=true&show_icons=true&include_all_commits=true" alt="Rotha's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomRotha&layout=compact&theme=tokyonight&hide_border=false" /> |
 | ------------- | ------------- |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MomRotha&theme=tokyonight&hide_border=false" />
-</p>
+
 
 ---
 
