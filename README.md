@@ -33,7 +33,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [PhteahFinder 🏠](https://seangeim7799.wixsite.com/phteahfinder) | A platform that connects renters and landlords in Cambodia | React, TailwindCSS, Firebase |
+| [StackQuiz 🏠](https://www.stackquiz.me/join-room) | An online platform to create quiz, play quiz in real time |
 | [istad_fullstack_portfolio 📚](https://istad-fullstack-portfolio.vercel.app/) | based  profile portfolio | HTML, CSS |
 | [react_website ](https://react-websiteecommerce.vercel.app/) | A platform that connects with fake APIs | React |
 | [Happy_birthday 🎉](happy-birthday-psi-azure.vercel.app) | Fun HTML/CSS animation with birthday music | HTML, CSS, JavaScript |
